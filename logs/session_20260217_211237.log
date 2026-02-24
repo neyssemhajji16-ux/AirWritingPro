@@ -1,0 +1,38 @@
+[21:12:37.848] [INFO] [logger.py:50] ==================================================
+[21:12:37.986] [INFO] [logger.py:51] 🚀 NOUVELLE SESSION DÉMARRÉE
+[21:12:37.987] [INFO] [logger.py:52] 📅 Date: 2026-02-17 21:12:37
+[21:12:37.988] [INFO] [logger.py:53] ==================================================
+[21:12:37.989] [INFO] [drawing_controller.py:24] Initialisation du DrawingController...
+[21:12:44.869] [INFO] [hand_tracker.py:52] Initialisation HandTracker avancé...
+[21:12:44.881] [INFO] [hand_tracker.py:76] ✅ HandTracker prêt
+[21:12:44.886] [INFO] [canvas_model.py:18] Création canvas 640x480
+[21:12:44.886] [INFO] [shapes.py:27] 📐 ShapeDetector initialisé
+[21:12:44.886] [INFO] [canvas_model.py:47] ✅ Canvas prêt
+[21:12:44.886] [INFO] [main_view.py:40] ✅ MainView initialisée
+[21:12:44.897] [INFO] [keyboard_controller.py:57] ⌨️ KeyboardController avancé prêt
+[21:12:44.899] [INFO] [drawing_controller.py:56] ✅ DrawingController initialisé
+[21:13:03.169] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[21:13:03.169] [INFO] [main_view.py:231] NOTIF: ⏸️ PAUSE
+[21:13:04.705] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[21:13:04.705] [INFO] [main_view.py:231] NOTIF: ▶️ REPRISE
+[21:13:06.400] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[21:13:06.405] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[21:13:06.405] [INFO] [main_view.py:231] NOTIF: ✓ Toile effacée
+[21:13:11.311] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[21:13:11.326] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[21:13:11.326] [INFO] [main_view.py:231] NOTIF: ✓ Toile effacée
+[21:13:58.958] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[21:13:58.958] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[21:13:58.958] [INFO] [main_view.py:231] NOTIF: ✓ Toile effacée
+[21:14:05.647] [INFO] [keyboard_controller.py:87] ⌨️ Touche: COULEUR 5
+[21:14:05.663] [INFO] [canvas_model.py:246] 🎨 Couleur: purple
+[21:14:05.663] [INFO] [main_view.py:231] NOTIF: 🎨 PURPLE
+[21:14:49.727] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[21:14:49.743] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[21:14:49.743] [INFO] [main_view.py:231] NOTIF: ✓ Toile effacée
+[21:14:53.601] [INFO] [keyboard_controller.py:87] ⌨️ Touche: 0x1B
+[21:14:54.024] [INFO] [logger.py:124] ==================================================
+[21:14:54.027] [INFO] [logger.py:125] 👋 FIN DE SESSION
+[21:14:54.038] [INFO] [logger.py:126] ⏱️ Durée: 0:02:16
+[21:14:54.045] [INFO] [logger.py:127] 📊 Logs: INFO=36, WARNING=0, ERROR=0
+[21:14:54.049] [INFO] [logger.py:130] ==================================================

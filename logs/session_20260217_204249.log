@@ -1,0 +1,99 @@
+[20:42:49.975] [INFO] [logger.py:50] ==================================================
+[20:42:50.088] [INFO] [logger.py:51] 🚀 NOUVELLE SESSION DÉMARRÉE
+[20:42:50.088] [INFO] [logger.py:52] 📅 Date: 2026-02-17 20:42:49
+[20:42:50.088] [INFO] [logger.py:53] ==================================================
+[20:42:50.088] [INFO] [drawing_controller.py:24] Initialisation du DrawingController...
+[20:42:56.684] [INFO] [hand_tracker.py:52] Initialisation HandTracker avancé...
+[20:42:56.699] [INFO] [hand_tracker.py:76] ✅ HandTracker prêt
+[20:42:56.699] [INFO] [canvas_model.py:18] Création canvas 640x480
+[20:42:56.713] [INFO] [shapes.py:27] 📐 ShapeDetector initialisé
+[20:42:56.716] [INFO] [canvas_model.py:47] ✅ Canvas prêt
+[20:42:56.720] [INFO] [main_view.py:40] ✅ MainView initialisée
+[20:42:56.722] [INFO] [keyboard_controller.py:57] ⌨️ KeyboardController avancé prêt
+[20:42:56.725] [INFO] [drawing_controller.py:56] ✅ DrawingController initialisé
+[20:44:57.235] [INFO] [keyboard_controller.py:87] ⌨️ Touche: s
+[20:44:57.254] [INFO] [canvas_model.py:198] 💾 Canvas sauvegardé: sauvegardes\dessin_20260217_204457.png
+[20:44:57.255] [INFO] [main_view.py:231] NOTIF: ✓ Sauvegardé
+[20:44:59.594] [INFO] [keyboard_controller.py:87] ⌨️ Touche: s
+[20:44:59.596] [INFO] [canvas_model.py:198] 💾 Canvas sauvegardé: sauvegardes\dessin_20260217_204459.png
+[20:44:59.606] [INFO] [main_view.py:231] NOTIF: ✓ Sauvegardé
+[20:45:00.516] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:45:00.521] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:45:00.521] [INFO] [main_view.py:231] NOTIF: ✓ Toile effacée
+[20:45:05.159] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:45:05.159] [INFO] [main_view.py:231] NOTIF: ⏸️ PAUSE
+[20:45:06.254] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:45:06.254] [INFO] [main_view.py:231] NOTIF: ▶️ REPRISE
+[20:45:09.910] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:45:09.910] [INFO] [main_view.py:231] NOTIF: ⏸️ PAUSE
+[20:45:11.975] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:45:11.975] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:45:11.990] [INFO] [main_view.py:231] NOTIF: ✓ Toile effacée
+[20:45:15.736] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:45:15.736] [INFO] [main_view.py:231] NOTIF: ▶️ REPRISE
+[20:45:20.165] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:45:20.165] [INFO] [main_view.py:231] NOTIF: ⏸️ PAUSE
+[20:45:22.639] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:45:22.639] [INFO] [main_view.py:231] NOTIF: ▶️ REPRISE
+[20:45:40.294] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:45:40.310] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:45:40.310] [INFO] [main_view.py:231] NOTIF: ✓ Toile effacée
+[20:45:40.404] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:45:40.412] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:45:40.412] [INFO] [main_view.py:231] NOTIF: ✓ Toile effacée
+[20:45:46.662] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:45:46.678] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:45:46.678] [INFO] [main_view.py:231] NOTIF: ✓ Toile effacée
+[20:45:49.670] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:45:49.670] [INFO] [main_view.py:231] NOTIF: ⏸️ PAUSE
+[20:45:52.117] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:45:52.117] [INFO] [main_view.py:231] NOTIF: ▶️ REPRISE
+[20:45:57.845] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:45:57.845] [INFO] [main_view.py:231] NOTIF: ⏸️ PAUSE
+[20:46:28.899] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:46:28.902] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:46:28.902] [INFO] [main_view.py:231] NOTIF: ✓ Toile effacée
+[20:46:34.819] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:46:34.820] [INFO] [main_view.py:231] NOTIF: ▶️ REPRISE
+[20:46:37.777] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:46:37.779] [INFO] [main_view.py:231] NOTIF: ⏸️ PAUSE
+[20:46:38.279] [INFO] [keyboard_controller.py:87] ⌨️ Touche: s
+[20:46:38.279] [INFO] [canvas_model.py:198] 💾 Canvas sauvegardé: sauvegardes\dessin_20260217_204638.png
+[20:46:38.279] [INFO] [main_view.py:231] NOTIF: ✓ Sauvegardé
+[20:46:40.711] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:46:40.714] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:46:40.714] [INFO] [main_view.py:231] NOTIF: ✓ Toile effacée
+[20:46:42.822] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:46:42.822] [INFO] [main_view.py:231] NOTIF: ▶️ REPRISE
+[20:46:43.927] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:46:43.927] [INFO] [main_view.py:231] NOTIF: ⏸️ PAUSE
+[20:46:48.007] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:46:48.007] [INFO] [main_view.py:231] NOTIF: ▶️ REPRISE
+[20:47:04.166] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:47:04.166] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:47:04.166] [INFO] [main_view.py:231] NOTIF: ✓ Toile effacée
+[20:47:32.744] [INFO] [keyboard_controller.py:87] ⌨️ Touche: e
+[20:47:32.744] [INFO] [canvas_model.py:257] 🧽 GOMME
+[20:47:32.750] [INFO] [main_view.py:231] NOTIF: 🧽 GOMME
+[20:47:36.293] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:47:36.293] [INFO] [main_view.py:231] NOTIF: ▶️ REPRISE
+[20:47:39.413] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:47:39.430] [INFO] [main_view.py:231] NOTIF: ⏸️ PAUSE
+[20:47:40.769] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:47:40.769] [INFO] [main_view.py:231] NOTIF: ▶️ REPRISE
+[20:47:42.645] [INFO] [keyboard_controller.py:87] ⌨️ Touche: e
+[20:47:42.645] [INFO] [canvas_model.py:257] 🎨 PINCEAU
+[20:47:42.645] [INFO] [main_view.py:231] NOTIF: 🎨 PINCEAU
+[20:47:46.134] [INFO] [keyboard_controller.py:87] ⌨️ Touche: e
+[20:47:46.134] [INFO] [canvas_model.py:257] 🧽 GOMME
+[20:47:46.134] [INFO] [main_view.py:231] NOTIF: 🧽 GOMME
+[20:47:53.989] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:47:54.005] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:47:54.005] [INFO] [main_view.py:231] NOTIF: ✓ Toile effacée
+[20:48:46.330] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:48:46.330] [INFO] [main_view.py:231] NOTIF: ▶️ REPRISE
+[21:01:10.088] [INFO] [logger.py:124] ==================================================
+[21:01:10.102] [INFO] [logger.py:125] 👋 FIN DE SESSION
+[21:01:10.179] [INFO] [logger.py:126] ⏱️ Durée: 0:18:20
+[21:01:10.195] [INFO] [logger.py:127] 📊 Logs: INFO=97, WARNING=0, ERROR=0
+[21:01:10.231] [INFO] [logger.py:130] ==================================================

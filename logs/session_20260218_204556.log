@@ -1,0 +1,132 @@
+[20:45:56.403] [INFO] [logger.py:50] ==================================================
+[20:45:56.541] [INFO] [logger.py:51] 🚀 NOUVELLE SESSION DÉMARRÉE
+[20:45:56.548] [INFO] [logger.py:52] 📅 Date: 2026-02-18 20:45:56
+[20:45:56.548] [INFO] [logger.py:53] ==================================================
+[20:45:56.548] [INFO] [drawing_controller.py:34] ==================================================
+[20:45:56.548] [INFO] [drawing_controller.py:35] 🚀 Initialisation du DrawingController...
+[20:45:56.548] [INFO] [drawing_controller.py:36] ==================================================
+[20:46:05.978] [INFO] [drawing_controller.py:50] ✅ Caméra initialisée: 640x480
+[20:46:05.978] [INFO] [drawing_controller.py:56] 📦 Initialisation des modèles...
+[20:46:05.978] [INFO] [hand_tracker.py:52] Initialisation HandTracker avancé...
+[20:46:06.005] [INFO] [hand_tracker.py:76] ✅ HandTracker prêt
+[20:46:06.006] [INFO] [canvas_model.py:18] Création canvas 640x480
+[20:46:06.010] [INFO] [shapes.py:27] 📐 ShapeDetector initialisé
+[20:46:06.013] [INFO] [canvas_model.py:47] ✅ Canvas prêt
+[20:46:06.016] [INFO] [drawing_controller.py:59] ✅ Modèles initialisés
+[20:46:06.016] [INFO] [drawing_controller.py:62] 🖥️ Initialisation de la vue...
+[20:46:06.022] [INFO] [main_view.py:40] ✅ MainView initialisée
+[20:46:06.025] [INFO] [drawing_controller.py:64] ✅ Vue initialisée
+[20:46:06.026] [INFO] [drawing_controller.py:67] 🎮 Initialisation des contrôleurs...
+[20:46:06.028] [INFO] [keyboard_controller.py:57] ⌨️ KeyboardController avancé prêt
+[20:46:07.456] [INFO] [voice_commands.py:39] 🎤 Microphone initialisé avec succès
+[20:46:07.456] [INFO] [voice_commands.py:76] 🎤 VoiceController initialisé (actif)
+[20:46:07.456] [INFO] [drawing_controller.py:70] ✅ Contrôleurs initialisés
+[20:46:07.456] [INFO] [drawing_controller.py:73] ✨ Initialisation des fonctionnalités avancées...
+[20:46:07.456] [INFO] [drawing_controller.py:82] ✅ Fonctionnalités avancées initialisées
+[20:46:07.456] [INFO] [voice_commands.py:92] 🎤 Écoute vocale démarrée (parlez dans le micro)
+[20:46:07.456] [INFO] [main_view.py:231] NOTIF: 🎤 Micro actif
+[20:46:07.467] [INFO] [drawing_controller.py:107] ==================================================
+[20:46:07.468] [INFO] [drawing_controller.py:108] ✅✅✅ DrawingController prêt! ✅✅✅
+[20:46:07.469] [INFO] [drawing_controller.py:109] ==================================================
+[20:46:07.470] [INFO] [drawing_controller.py:163] ▶️ Démarrage de la boucle principale
+[20:46:15.303] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:46:15.305] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:46:15.308] [INFO] [main_view.py:231] NOTIF: 🧹 Toile effacée
+[20:46:15.309] [INFO] [drawing_controller.py:274] 🧹 Toile effacée
+[20:46:20.391] [INFO] [voice_commands.py:114] 🎤 Commande reçue: 'bleu'
+[20:46:20.398] [INFO] [voice_commands.py:138] ✅ Commande reconnue: bleu
+[20:46:20.398] [INFO] [main_view.py:231] NOTIF: 🎤 bleu
+[20:46:20.398] [INFO] [canvas_model.py:246] 🎨 Couleur: blue
+[20:46:20.403] [INFO] [main_view.py:231] NOTIF: 🎨 BLUE
+[20:46:20.405] [INFO] [drawing_controller.py:317] 🎨 Couleur: blue
+[20:46:37.793] [INFO] [voice_commands.py:114] 🎤 Commande reçue: 'où il y a écrit'
+[20:46:37.794] [INFO] [voice_commands.py:149] ❓ Commande non reconnue: où il y a écrit
+[20:46:37.794] [INFO] [main_view.py:231] NOTIF: ❓ Non reconnu
+[20:46:43.200] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:46:43.219] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:46:43.221] [INFO] [main_view.py:231] NOTIF: 🧹 Toile effacée
+[20:46:43.223] [INFO] [drawing_controller.py:274] 🧹 Toile effacée
+[20:47:18.653] [INFO] [voice_commands.py:114] 🎤 Commande reçue: 'horoscope sauce'
+[20:47:18.657] [INFO] [voice_commands.py:149] ❓ Commande non reconnue: horoscope sauce
+[20:47:18.657] [INFO] [main_view.py:231] NOTIF: ❓ Non reconnu
+[20:48:25.422] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:48:25.425] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:48:25.428] [INFO] [main_view.py:231] NOTIF: 🧹 Toile effacée
+[20:48:25.429] [INFO] [drawing_controller.py:274] 🧹 Toile effacée
+[20:48:52.511] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:48:52.515] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:48:52.517] [INFO] [main_view.py:231] NOTIF: 🧹 Toile effacée
+[20:48:52.518] [INFO] [drawing_controller.py:274] 🧹 Toile effacée
+[20:48:55.180] [INFO] [voice_commands.py:114] 🎤 Commande reçue: 'viol'
+[20:48:55.183] [INFO] [voice_commands.py:149] ❓ Commande non reconnue: viol
+[20:48:55.185] [INFO] [main_view.py:231] NOTIF: ❓ Non reconnu
+[20:49:01.698] [INFO] [voice_commands.py:114] 🎤 Commande reçue: 'orange orange'
+[20:49:01.700] [INFO] [voice_commands.py:149] ❓ Commande non reconnue: orange orange
+[20:49:01.701] [INFO] [main_view.py:231] NOTIF: ❓ Non reconnu
+[20:49:05.829] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:49:05.834] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:49:05.834] [INFO] [main_view.py:231] NOTIF: 🧹 Toile effacée
+[20:49:05.834] [INFO] [drawing_controller.py:274] 🧹 Toile effacée
+[20:49:06.640] [INFO] [voice_commands.py:114] 🎤 Commande reçue: 'john john'
+[20:49:06.642] [INFO] [voice_commands.py:149] ❓ Commande non reconnue: john john
+[20:49:06.643] [INFO] [main_view.py:231] NOTIF: ❓ Non reconnu
+[20:49:19.794] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:49:19.797] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:49:19.799] [INFO] [main_view.py:231] NOTIF: 🧹 Toile effacée
+[20:49:19.800] [INFO] [drawing_controller.py:274] 🧹 Toile effacée
+[20:49:25.267] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:49:25.270] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:49:25.272] [INFO] [main_view.py:231] NOTIF: 🧹 Toile effacée
+[20:49:25.274] [INFO] [drawing_controller.py:274] 🧹 Toile effacée
+[20:49:27.599] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:49:27.600] [INFO] [main_view.py:231] NOTIF: ⏸️ PAUSE
+[20:49:27.602] [INFO] [drawing_controller.py:293] ⏸️ Mode PAUSE
+[20:49:29.217] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:49:29.218] [INFO] [main_view.py:231] NOTIF: ▶️ REPRISE
+[20:49:29.220] [INFO] [drawing_controller.py:297] ▶️ Mode DESSIN
+[20:49:31.554] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:49:31.556] [INFO] [main_view.py:231] NOTIF: ⏸️ PAUSE
+[20:49:31.557] [INFO] [drawing_controller.py:293] ⏸️ Mode PAUSE
+[20:49:34.875] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[20:49:34.877] [INFO] [main_view.py:231] NOTIF: ▶️ REPRISE
+[20:49:34.877] [INFO] [drawing_controller.py:297] ▶️ Mode DESSIN
+[20:49:46.404] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:49:46.407] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:49:46.409] [INFO] [main_view.py:231] NOTIF: 🧹 Toile effacée
+[20:49:46.411] [INFO] [drawing_controller.py:274] 🧹 Toile effacée
+[20:50:00.190] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:50:00.193] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:50:00.194] [INFO] [main_view.py:231] NOTIF: 🧹 Toile effacée
+[20:50:00.196] [INFO] [drawing_controller.py:274] 🧹 Toile effacée
+[20:50:11.119] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:50:11.122] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:50:11.124] [INFO] [main_view.py:231] NOTIF: 🧹 Toile effacée
+[20:50:11.124] [INFO] [drawing_controller.py:274] 🧹 Toile effacée
+[20:50:18.630] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[20:50:18.632] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[20:50:18.634] [INFO] [main_view.py:231] NOTIF: 🧹 Toile effacée
+[20:50:18.635] [INFO] [drawing_controller.py:274] 🧹 Toile effacée
+[20:50:46.141] [INFO] [voice_commands.py:114] 🎤 Commande reçue: 'chez vous pourquoi pas'
+[20:50:46.142] [INFO] [voice_commands.py:149] ❓ Commande non reconnue: chez vous pourquoi pas
+[20:50:46.143] [INFO] [main_view.py:231] NOTIF: ❓ Non reconnu
+[20:50:49.141] [INFO] [keyboard_controller.py:87] ⌨️ Touche: 0x1B
+[20:50:49.142] [INFO] [drawing_controller.py:419] 👋 Arrêt demandé...
+[20:50:49.143] [INFO] [drawing_controller.py:424] ==================================================
+[20:50:49.145] [INFO] [drawing_controller.py:425] 🧹 Nettoyage des ressources...
+[20:50:51.053] [INFO] [voice_commands.py:131] 🎤 Écoute vocale arrêtée
+[20:50:51.053] [INFO] [voice_commands.py:211] 🎤 Écoute vocale arrêtée
+[20:50:51.074] [INFO] [canvas_model.py:198] 💾 Canvas sauvegardé: sauvegardes\final_drawing.png
+[20:50:51.094] [INFO] [data_analyzer.py:121] 📊 Données exportées: data_20260218_205051.json
+[20:50:51.545] [INFO] [drawing_controller.py:451] ==================================================
+[20:50:51.546] [INFO] [drawing_controller.py:452] 📊 STATISTIQUES FINALES
+[20:50:51.548] [INFO] [drawing_controller.py:453]    Points dessinés: 1683
+[20:50:51.549] [INFO] [drawing_controller.py:454]    Durée session: 0:04:44
+[20:50:51.562] [INFO] [drawing_controller.py:455]    Vitesse moyenne: 312.5 px/s
+[20:50:51.565] [INFO] [drawing_controller.py:456]    Traits: 111
+[20:50:51.576] [INFO] [drawing_controller.py:457] ==================================================
+[20:50:51.583] [INFO] [drawing_controller.py:459] 👋 Session terminée
+[20:50:51.588] [INFO] [logger.py:124] ==================================================
+[20:50:51.591] [INFO] [logger.py:125] 👋 FIN DE SESSION
+[20:50:51.595] [INFO] [logger.py:126] ⏱️ Durée: 0:04:55
+[20:50:51.598] [INFO] [logger.py:127] 📊 Logs: INFO=130, WARNING=0, ERROR=0
+[20:50:51.600] [INFO] [logger.py:130] ==================================================

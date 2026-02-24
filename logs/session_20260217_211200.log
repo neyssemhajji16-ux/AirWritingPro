@@ -1,0 +1,27 @@
+[21:12:00.757] [INFO] [logger.py:50] ==================================================
+[21:12:00.879] [INFO] [logger.py:51] 🚀 NOUVELLE SESSION DÉMARRÉE
+[21:12:00.881] [INFO] [logger.py:52] 📅 Date: 2026-02-17 21:12:00
+[21:12:00.882] [INFO] [logger.py:53] ==================================================
+[21:12:00.882] [INFO] [drawing_controller.py:24] Initialisation du DrawingController...
+[21:12:07.569] [INFO] [hand_tracker.py:52] Initialisation HandTracker avancé...
+[21:12:07.599] [INFO] [hand_tracker.py:76] ✅ HandTracker prêt
+[21:12:07.600] [INFO] [canvas_model.py:18] Création canvas 640x480
+[21:12:07.603] [INFO] [shapes.py:27] 📐 ShapeDetector initialisé
+[21:12:07.605] [INFO] [canvas_model.py:47] ✅ Canvas prêt
+[21:12:07.607] [INFO] [main_view.py:40] ✅ MainView initialisée
+[21:12:07.610] [INFO] [keyboard_controller.py:57] ⌨️ KeyboardController avancé prêt
+[21:12:07.619] [INFO] [drawing_controller.py:56] ✅ DrawingController initialisé
+[21:12:12.135] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[21:12:12.135] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[21:12:12.135] [INFO] [main_view.py:231] NOTIF: ✓ Toile effacée
+[21:12:16.389] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[21:12:16.390] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[21:12:16.390] [INFO] [main_view.py:231] NOTIF: ✓ Toile effacée
+[21:12:17.316] [INFO] [keyboard_controller.py:87] ⌨️ Touche: p
+[21:12:17.324] [INFO] [main_view.py:231] NOTIF: ⏸️ PAUSE
+[21:12:29.688] [INFO] [keyboard_controller.py:87] ⌨️ Touche: 0x1B
+[21:12:30.126] [INFO] [logger.py:124] ==================================================
+[21:12:30.141] [INFO] [logger.py:125] 👋 FIN DE SESSION
+[21:12:30.145] [INFO] [logger.py:126] ⏱️ Durée: 0:00:29
+[21:12:30.152] [INFO] [logger.py:127] 📊 Logs: INFO=25, WARNING=0, ERROR=0
+[21:12:30.156] [INFO] [logger.py:130] ==================================================

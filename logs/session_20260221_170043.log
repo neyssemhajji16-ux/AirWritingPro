@@ -1,0 +1,81 @@
+[17:00:43.120] [INFO] [logger.py:50] ==================================================
+[17:00:43.347] [INFO] [logger.py:51] 🚀 NOUVELLE SESSION DÉMARRÉE
+[17:00:43.347] [INFO] [logger.py:52] 📅 Date: 2026-02-21 17:00:43
+[17:00:43.347] [INFO] [logger.py:53] ==================================================
+[17:00:43.347] [INFO] [drawing_controller.py:34] ==================================================
+[17:00:43.347] [INFO] [drawing_controller.py:35] 🚀 Initialisation du DrawingController...
+[17:00:43.347] [INFO] [drawing_controller.py:36] ==================================================
+[17:00:56.590] [INFO] [drawing_controller.py:50] ✅ Caméra initialisée: 640x480
+[17:00:56.596] [INFO] [drawing_controller.py:56] 📦 Initialisation des modèles...
+[17:00:56.596] [INFO] [hand_tracker.py:52] Initialisation HandTracker avancé...
+[17:00:56.630] [INFO] [hand_tracker.py:76] ✅ HandTracker prêt
+[17:00:56.636] [INFO] [canvas_model.py:18] Création canvas 640x480
+[17:00:56.644] [INFO] [shapes.py:27] 📐 ShapeDetector initialisé
+[17:00:56.651] [INFO] [canvas_model.py:47] ✅ Canvas prêt
+[17:00:56.654] [INFO] [drawing_controller.py:59] ✅ Modèles initialisés
+[17:00:56.662] [INFO] [drawing_controller.py:62] 🖥️ Initialisation de la vue...
+[17:00:56.662] [INFO] [main_view.py:40] ✅ MainView initialisée
+[17:00:56.667] [INFO] [drawing_controller.py:64] ✅ Vue initialisée
+[17:00:56.672] [INFO] [drawing_controller.py:67] 🎮 Initialisation des contrôleurs...
+[17:00:56.674] [INFO] [keyboard_controller.py:57] ⌨️ KeyboardController avancé prêt
+[17:00:58.154] [INFO] [voice_commands.py:39] 🎤 Microphone initialisé avec succès
+[17:00:58.171] [INFO] [voice_commands.py:76] 🎤 VoiceController initialisé (actif)
+[17:00:58.173] [INFO] [drawing_controller.py:70] ✅ Contrôleurs initialisés
+[17:00:58.175] [INFO] [drawing_controller.py:73] ✨ Initialisation des fonctionnalités avancées...
+[17:00:58.175] [INFO] [drawing_controller.py:82] ✅ Fonctionnalités avancées initialisées
+[17:00:58.182] [INFO] [voice_commands.py:92] 🎤 Écoute vocale démarrée (parlez dans le micro)
+[17:00:58.189] [INFO] [main_view.py:231] NOTIF: 🎤 Micro actif
+[17:00:58.190] [INFO] [drawing_controller.py:107] ==================================================
+[17:00:58.195] [INFO] [drawing_controller.py:108] ✅✅✅ DrawingController prêt! ✅✅✅
+[17:00:58.199] [INFO] [drawing_controller.py:109] ==================================================
+[17:00:58.203] [INFO] [drawing_controller.py:163] ▶️ Démarrage de la boucle principale
+[17:01:05.595] [INFO] [voice_commands.py:114] 🎤 Commande reçue: 'm6'
+[17:01:05.602] [INFO] [voice_commands.py:149] ❓ Commande non reconnue: m6
+[17:01:05.605] [INFO] [main_view.py:231] NOTIF: ❓ Non reconnu
+[17:01:15.118] [INFO] [voice_commands.py:114] 🎤 Commande reçue: 'blue green'
+[17:01:15.118] [INFO] [voice_commands.py:149] ❓ Commande non reconnue: blue green
+[17:01:15.127] [INFO] [main_view.py:231] NOTIF: ❓ Non reconnu
+[17:01:19.726] [INFO] [voice_commands.py:114] 🎤 Commande reçue: 'bleu'
+[17:01:19.728] [INFO] [voice_commands.py:138] ✅ Commande reconnue: bleu
+[17:01:19.728] [INFO] [main_view.py:231] NOTIF: 🎤 bleu
+[17:01:19.728] [INFO] [canvas_model.py:246] 🎨 Couleur: blue
+[17:01:19.734] [INFO] [main_view.py:231] NOTIF: 🎨 BLUE
+[17:01:19.739] [INFO] [drawing_controller.py:317] 🎨 Couleur: blue
+[17:01:23.036] [INFO] [voice_commands.py:114] 🎤 Commande reçue: 'ah c'est bon'
+[17:01:23.037] [INFO] [voice_commands.py:149] ❓ Commande non reconnue: ah c'est bon
+[17:01:23.040] [INFO] [main_view.py:231] NOTIF: ❓ Non reconnu
+[17:01:27.505] [INFO] [voice_commands.py:114] 🎤 Commande reçue: 'vélo'
+[17:01:27.505] [INFO] [voice_commands.py:149] ❓ Commande non reconnue: vélo
+[17:01:27.505] [INFO] [main_view.py:231] NOTIF: ❓ Non reconnu
+[17:02:05.162] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[17:02:05.167] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[17:02:05.172] [INFO] [main_view.py:231] NOTIF: 🧹 Toile effacée
+[17:02:05.178] [INFO] [drawing_controller.py:274] 🧹 Toile effacée
+[17:02:08.190] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[17:02:08.194] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[17:02:08.194] [INFO] [main_view.py:231] NOTIF: 🧹 Toile effacée
+[17:02:08.197] [INFO] [drawing_controller.py:274] 🧹 Toile effacée
+[17:02:15.309] [INFO] [keyboard_controller.py:87] ⌨️ Touche: c
+[17:02:15.314] [INFO] [canvas_model.py:171] 🧹 Toile effacée
+[17:02:15.317] [INFO] [main_view.py:231] NOTIF: 🧹 Toile effacée
+[17:02:15.321] [INFO] [drawing_controller.py:274] 🧹 Toile effacée
+[17:02:15.922] [INFO] [keyboard_controller.py:87] ⌨️ Touche: 0x1B
+[17:02:15.925] [INFO] [drawing_controller.py:419] 👋 Arrêt demandé...
+[17:02:15.930] [INFO] [drawing_controller.py:424] ==================================================
+[17:02:15.932] [INFO] [drawing_controller.py:425] 🧹 Nettoyage des ressources...
+[17:02:17.940] [INFO] [voice_commands.py:211] 🎤 Écoute vocale arrêtée
+[17:02:17.952] [INFO] [canvas_model.py:198] 💾 Canvas sauvegardé: sauvegardes\final_drawing.png
+[17:02:17.971] [INFO] [data_analyzer.py:121] 📊 Données exportées: data_20260221_170217.json
+[17:02:18.596] [INFO] [drawing_controller.py:451] ==================================================
+[17:02:18.642] [INFO] [drawing_controller.py:452] 📊 STATISTIQUES FINALES
+[17:02:18.663] [INFO] [drawing_controller.py:453]    Points dessinés: 232
+[17:02:18.685] [INFO] [drawing_controller.py:454]    Durée session: 0:01:20
+[17:02:18.691] [INFO] [drawing_controller.py:455]    Vitesse moyenne: 298.3 px/s
+[17:02:18.693] [INFO] [drawing_controller.py:456]    Traits: 3
+[17:02:18.701] [INFO] [drawing_controller.py:457] ==================================================
+[17:02:18.707] [INFO] [drawing_controller.py:459] 👋 Session terminée
+[17:02:18.709] [INFO] [logger.py:124] ==================================================
+[17:02:18.709] [INFO] [logger.py:125] 👋 FIN DE SESSION
+[17:02:18.725] [INFO] [logger.py:126] ⏱️ Durée: 0:01:35
+[17:02:18.730] [INFO] [logger.py:127] 📊 Logs: INFO=79, WARNING=0, ERROR=0
+[17:02:18.736] [INFO] [logger.py:130] ==================================================

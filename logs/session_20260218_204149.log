@@ -1,0 +1,31 @@
+[20:41:49.197] [INFO] [logger.py:50] ==================================================
+[20:41:49.363] [INFO] [logger.py:51] 🚀 NOUVELLE SESSION DÉMARRÉE
+[20:41:49.364] [INFO] [logger.py:52] 📅 Date: 2026-02-18 20:41:49
+[20:41:49.364] [INFO] [logger.py:53] ==================================================
+[20:41:49.366] [INFO] [drawing_controller.py:34] ==================================================
+[20:41:49.366] [INFO] [drawing_controller.py:35] 🚀 Initialisation du DrawingController...
+[20:41:49.368] [INFO] [drawing_controller.py:36] ==================================================
+[20:41:58.789] [INFO] [drawing_controller.py:50] ✅ Caméra initialisée: 640x480
+[20:41:58.791] [INFO] [drawing_controller.py:56] 📦 Initialisation des modèles...
+[20:41:58.792] [INFO] [hand_tracker.py:52] Initialisation HandTracker avancé...
+[20:41:58.802] [INFO] [hand_tracker.py:76] ✅ HandTracker prêt
+[20:41:58.803] [INFO] [canvas_model.py:18] Création canvas 640x480
+[20:41:58.807] [INFO] [shapes.py:27] 📐 ShapeDetector initialisé
+[20:41:58.811] [INFO] [canvas_model.py:47] ✅ Canvas prêt
+[20:41:58.813] [INFO] [drawing_controller.py:59] ✅ Modèles initialisés
+[20:41:58.814] [INFO] [drawing_controller.py:62] 🖥️ Initialisation de la vue...
+[20:41:58.818] [INFO] [main_view.py:40] ✅ MainView initialisée
+[20:41:58.822] [INFO] [drawing_controller.py:64] ✅ Vue initialisée
+[20:41:58.823] [INFO] [drawing_controller.py:67] 🎮 Initialisation des contrôleurs...
+[20:41:58.834] [INFO] [keyboard_controller.py:57] ⌨️ KeyboardController avancé prêt
+[20:42:00.391] [INFO] [voice_commands.py:39] 🎤 Microphone initialisé avec succès
+[20:42:00.399] [INFO] [voice_commands.py:76] 🎤 VoiceController initialisé (actif)
+[20:42:00.399] [INFO] [drawing_controller.py:70] ✅ Contrôleurs initialisés
+[20:42:00.399] [INFO] [drawing_controller.py:73] ✨ Initialisation des fonctionnalités avancées...
+[20:42:00.399] [INFO] [drawing_controller.py:82] ✅ Fonctionnalités avancées initialisées
+[20:42:00.399] [INFO] [voice_commands.py:92] 🎤 Écoute vocale démarrée (parlez dans le micro)
+[20:42:00.406] [INFO] [main_view.py:231] NOTIF: 🎤 Micro actif
+[20:42:00.408] [INFO] [drawing_controller.py:107] ==================================================
+[20:42:00.409] [INFO] [drawing_controller.py:108] ✅✅✅ DrawingController prêt! ✅✅✅
+[20:42:00.409] [INFO] [drawing_controller.py:109] ==================================================
+[20:42:00.412] [INFO] [drawing_controller.py:163] ▶️ Démarrage de la boucle principale
