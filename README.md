@@ -1,4 +1,4 @@
-# AIR WRITING - Projet Niveau Ingénieur 🚀
+# AIR WRITING 
 
 ## 📋 Description
 Application d'écriture en l'air utilisant la détection de main avec MediaPipe.
